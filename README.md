@@ -1,0 +1,2 @@
+# SistemaOp
+ejercicio2
