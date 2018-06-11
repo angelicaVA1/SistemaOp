@@ -1,0 +1,17 @@
+1.- ¿Qué comando ejecutó en el paso 5?
+    R: $ git add sistema_operativo.txt
+2.- ¿Qué comando ejecuto en el paso 10 y cuál fue el resultado
+     que mostró el git?
+    R: *master
+	windows8
+3.- ¿Qué comando utilizó en el paso 12 y decir en qué rama se
+     encuentra?
+    R: master
+      *windows8
+4.- ¿Porqué se causo el conflicto en el paso 28?  
+    R: Porque github tiene cambios que su repositorio local no
+       tiene.
+5.- ¿Qué comando se ejecutó en el paso 32?
+    R: $ git remote SistemaOp https://github.com/angelicaVA1/SistemaOp.git
+       $ git push -u SistemaOp master
+
