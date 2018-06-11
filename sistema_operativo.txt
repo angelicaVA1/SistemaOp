@@ -1,13 +1,10 @@
-Título: 	WINDOWS 8
-Fecha de lanzamiento:22 de Octubre de 2012
+Título: 	WINDOWS 8.1
+Fecha de lanzamiento: 18 de Octubre de 2013
 Idiomas: Multilenguaje
-Plataformas:x86 y x64
-Predecesor: Windows 7.
+Plataformas:x86 y x64 y ARM
+Predecesor: Windows 8.
 
-El cambio más resaltante en es la pantalla de Inicio una nueva
-colorida interfaz encima del escritorio clásico. Esta interfaz tiene el
-nombre clave del Metro ó sólo Inicio.
-
-Menú inicio: Este elemento fue eliminado y su función la suple la
-Pantalla Inicio y la barra de Charm
+Regresa el botón para ver todas las aplicaciones en la pantalla de
+Inicio, además de gestos táctiles adicionales tales como acceder a
+todas las aplicaciones.
 
